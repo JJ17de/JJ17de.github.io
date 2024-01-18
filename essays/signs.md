@@ -1,3 +1,19 @@
+---
+layout: essay
+type: essay
+title: "The difficult things will always be difficult"
+# All dates must be YYYY-MM-DD format!
+date: 2016-02-06
+published: true
+labels:
+  - Engineering
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
+*Signs of Life: JavaScript*
+
+
   Getting Familiar
 As I’m starting to get more and more familiar with JavaScript, I can’t help but notice the many similarities it has to other programming languages. The, if, else, for, and while loops/statements, create a sense of familiarity and comfort as I’m on this path of learning the ins and outs of JavaScript. Not to mention, the variable scopes in JavaScript are similar to my favorite coding language C++, so these similarities greatly increase the confidence I have in learning JavaScript. 
 
