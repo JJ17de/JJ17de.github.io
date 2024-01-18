@@ -9,7 +9,7 @@ labels:
   - C.S. Students
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/GOAT.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/GOAT.jpeg">
 
 ## Getting Familiar
 
