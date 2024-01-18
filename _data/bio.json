@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "JJ17de", "url": "http://github.com/JJ17de" },
-      { "network": "linkedin", "username": "JoshuaDomJones", "url": "http://linkedin.com/in/joshuadomjones" }
+      { "network": "linkedin", "username": "Joshuah Jones", "url": "http://linkedin.com/in/joshuadomjones" }
     ]
   },
   "interests": [
@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C/C++", "CSS/HTML", "Java", "Javascript", "Assembly", "Common Lisp", "SQL", "PHP",  ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Unix", "Linux", "g++", "TI LaunchPad", "PyCharm", "Jupyter Notebooks" ]
     }
   ],
   "education": [
@@ -49,8 +49,9 @@
       "endDate": "Present",
       "summary": "Network Infrastructure Management",
       "highlights": [
-        "Monitor network systems, configure and install various switches (CISCO, HP, ARUBA), provision and set up Access Points (Aruba), create Cat6 and USOC cables, and activate data jacks (Patch Panel, 110 Block).",
-        "Diagnose and troubleshoot network connectivity issues and document any changes made to the network infrastructure to ensure up-to-date records"
+        "Network Infrastructure Management: Monitor network systems, configure and install various switches (CISCO, HP, ARUBA), provision and set up Access Points (Aruba), create Cat6 and USOC cables, and activate data jacks (Patch Panel, 110 Block).",
+        "Routine Network Maintenance: Diagnose and troubleshoot network connectivity issues and document any changes made to the network infrastructure to ensure up-to-date records",
+        "Customer and Technical Support: Provide user support, manage Trouble Incident reports, and maintain the Trouble Report (TR) ticketing system to address and resolve customer issues effectively"
       ]
     }
   ],
