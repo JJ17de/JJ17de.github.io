@@ -2,10 +2,9 @@
   "basics": {
     "name": "Joshuah D. Jones",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
     "email": "JD81@hawaii.edu",
     "phone": "719-291-8124",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://JJ17de.github.io",
     "summary": "I am studying for a B.A. in Information Systems and Computer Science: Security Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -37,7 +36,7 @@
       "studyType": "B.A.",
       "startDate": "2021-08-01",
       "endDate": "Present",
-      "courses": " Algorithms, Database Systems, Data Networks, Operating Systems, Computer Security and Ethics, Security and Trust, Software Engineering, Discrete Mathematics, Program Structures"
+      "courses": "Algorithms, Database Systems, Data Networks, Operating Systems, Computer Security and Ethics, Security and Trust, Software Engineering, Discrete Mathematics, Program Structures"
     }
   ],
   "work": [
@@ -52,8 +51,8 @@
         "Monitor network systems, configure and install various switches (CISCO, HP, ARUBA), provision and set up Access Points (Aruba), create Cat6 and USOC cables, and activate data jacks (Patch Panel, 110 Block).",
         "Diagnose and troubleshoot network connectivity issues and document any changes made to the network infrastructure to ensure up-to-date records"
       ]
-    },
-
+    }
+  ],
   "references": [
     {
       "name": "Available upon request"
