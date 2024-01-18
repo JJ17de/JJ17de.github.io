@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "Cotton"
-date: 2014
+date: 2022
 published: true
 labels:
   - Lisp
@@ -56,4 +56,3 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
