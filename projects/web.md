@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projectOne.jpg
+image: img/light.jpeg
 title: "Personal Responsive Website"
 date: 2024
 published: true
