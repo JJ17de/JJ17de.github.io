@@ -11,7 +11,7 @@ labels:
   - Data Scraping 
 summary: "I created a program that scrapes data from two different charts and combines them, but only retriveing the data from players who meet certain metrics and conditions. "
 ---
-<div class="text-center">
+<div class="text-center p-2">
   <img width="800px" src="../img/Stats1.jpg" >
  
   <img width="800px" src="../img/Stats2.jpg" >
