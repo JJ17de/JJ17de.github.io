@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project1
+image: img/project1.jpg
 title: "Personal Responsive Website"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application to showcase my professional achievemnts."
 ---
 
-<img class="img-fluid" src="../img/project1">
+<img class="img-fluid" src="../img/project1.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2023. The project helped me learn how to design and implement a responsive web site.
 
