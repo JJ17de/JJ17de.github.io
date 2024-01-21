@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/light.jpeg
 title: "Personal Responsive Website"
-date: 2024
+date: 2023
 published: true
 labels:
   - HTML
