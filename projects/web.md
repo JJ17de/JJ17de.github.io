@@ -23,5 +23,5 @@ In this project I gained experience with full-stack web application design and a
 
 Here is some example code to illustrate Simple Schema use:
 
-{% gist:7c10b75b598ee247aa369bfd59020c35 %}
+{% gist 7c10b75b598ee247aa369bfd59020c35 %}
  
