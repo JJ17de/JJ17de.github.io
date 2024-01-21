@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/project1.jpg
+image: img/projectOne.jpg
 title: "Personal Responsive Website"
 date: 2024
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application to showcase my professional achievements."
 ---
 
-<img class="img-fluid" src="../img/project1.jpg">
+<img class="img-fluid" src="../img/projectOne.jpg">
 
 
 I'm currently building a personal website thats apart from this one based in HTML/CSS to also share my academic journey and work experiences. The website works well on phones, tablets, and computers. It's easy to use and shows off the projects I've done and what I've achieved in school. You can see the programming skills and languages I know and the different kinds of technology I know how to use. 
