@@ -13,7 +13,7 @@ summary: "I created a program that scrapes data from two different charts and co
 ---
 <div class="text-center">
   <img width="800px" src="../img/Stats1.jpg" >
-  --------------------------------------------
+ 
   <img width="800px" src="../img/Stats2.jpg" >
 </div>
 
