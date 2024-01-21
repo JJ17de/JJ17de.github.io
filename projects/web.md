@@ -10,8 +10,8 @@ labels:
   - CSS
   - JavaScript
   - GitHub
-summary: "A responsive web application to showcase my professional achievements."
----
+summary: "A responsive web application to showcase my professional and academic achievements."
+--- 
 
 <img class="img-fluid" src="../img/projectOne.jpg">
 
