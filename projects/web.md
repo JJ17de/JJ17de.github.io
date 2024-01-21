@@ -10,16 +10,17 @@ labels:
   - CSS
   - JavaScript
   - GitHub
-summary: "A responsive web application to showcase my professional achievemnts."
+summary: "A responsive web application to showcase my professional achievements."
 ---
 
 <img class="img-fluid" src="../img/project1.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2023. The project helped me learn how to design and implement a responsive web site.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I'm currently building a personal website thats apart from this one based in HTML/CSS to also share my academic journey and work experiences. The website works well on phones, tablets, and computers. It's easy to use and shows off the projects I've done and what I've achieved in school. You can see the programming skills and languages I know and the different kinds of technology I know how to use. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+There's also a section about my work experience, showing how I use what I learn in real situations. The website looks modern and professional, and it's interactive, which makes it fun to explore. You can easily get in touch with me through direct links to my LinkedIn and GitHub profiles, or you can download my resume. 
+
+I'm also currently workin on a special feature using Excel. Whenever someone sends me a message through the website, this tool automatically records who they are and what they said in an Excel document. This way, I can keep track of everyone who contacts me. All in all, this website will be a great place to see what I've done and get in touch with me easily.
 
 Here is some example code to illustrate Simple Schema use:
 
