@@ -11,10 +11,10 @@ labels:
   - Data Scraping 
 summary: "I created a program that scrapes data from two different charts and combines them, but only retriveing the data from players who meet certain metrics and conditions. "
 ---
-<div class="text-center p-2">
-  <img width="800px" src="../img/Stats1.jpg" >
+<div class="text-center p-4">
+  <img width="600px" src="../img/Stats1.jpg" >
  
-  <img width="800px" src="../img/Stats2.jpg" >
+  <img width="600px" src="../img/Stats2.jpg" >
 </div>
 
 I made a program that retrieves NBA Per Game and Shooting statistics of all current NBA players. First, it scrapes data from two different sets of charts – one set is for general stats players put up per game (Points Per Game, Assists Per Game, Rebounds Per Game, Field Goal %,etc... ), and the other is for advanced specified shooting statistics such as where they're shooting from, which distances specfically are they shooting from and how often.
