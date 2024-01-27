@@ -3,7 +3,7 @@ type: essay
 title: "Where it all started"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-26
-published: True
+published: true
 labels:
   - Software Engineering
   - Learning
