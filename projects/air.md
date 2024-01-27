@@ -11,4 +11,4 @@ labels:
 summary: "A fun Two player Computer Air Hockey Game"
 --- 
 
-<img class="img-fluid" src="../img/hockey.jpeg">
+<img class="img-fluid" src="../img/hockey.jpg">
