@@ -12,5 +12,5 @@ summary: "A fun Two player Computer Air Hockey Game"
 --- 
 
 <div class="text-center p-2">
-  <img width="300px" src="../img/hockey.jpg" >
+  <img width="500px" src="../img/hockey.jpg" >
 </div>
