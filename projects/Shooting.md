@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/nbalogo.jpg
 title: "NBA Advanced Shooting Stats"
-date: 2023
+date: 2024
 published: true
 labels:
   - Python
