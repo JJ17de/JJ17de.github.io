@@ -19,4 +19,5 @@ I made a 2-player Air Hockey game using Java, which is a simple programming lang
 
 Making the game work for two players at the same time was tricky. Both players can play on the same computer without any delay. I also added a way to keep track of the score. This project was fun and helped me learn a lot about making games in Java and using Eclipse.
 
+Here is some example code to illustrate Simple Schema use:
 {% gist fa427f84dc0cd7189eebc0a12ab1f777 %}
