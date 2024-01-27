@@ -1,3 +1,4 @@
+---
 layout: essay
 type: essay
 title: "Where it all started"
