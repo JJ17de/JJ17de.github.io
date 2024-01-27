@@ -11,7 +11,7 @@ labels:
   - Cyber Securoty 
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/Curiosity.jpeg">
+<img class="img-fluid" src="../img/Curiosity.jpeg">
 
 My journey into software engineering began in my senior year of high school when I took my first computer science class. This initial foray ignited a passion that combined my love for technology with my fascination for statistics and probability. The intricacies of algorithms and the predictability of programming resonated with me, leading me to dream of creating probability models.
 
