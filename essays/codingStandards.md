@@ -12,7 +12,7 @@ labels:
   - ESLint
 ---
 <div class="text-center p-2">
-  <img width="300px" src="../img/EsLint.jpg" >
+  <img width="100px" src="../img/EsLint.jpg" >
 </div>
 
 
