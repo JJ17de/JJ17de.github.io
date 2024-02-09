@@ -1,4 +1,13 @@
-
+---
+layout: essay
+type: essay
+title: "LoveHate Thing"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-08
+published: false
+labels:
+  - Engineering, IntelliJ IDEA, Coding Style, ESLint
+---
 
 
 
