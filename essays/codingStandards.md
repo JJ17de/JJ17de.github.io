@@ -6,7 +6,10 @@ title: "LoveHate Thing"
 date: 2024-02-08
 published: true
 labels:
-  - Engineering, IntelliJ IDEA, Coding Style, ESLint
+  - Engineering
+  - IntelliJ IDEA
+  - Coding Style
+  - ESLint
 ---
 
 
