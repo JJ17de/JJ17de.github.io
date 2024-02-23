@@ -12,7 +12,7 @@ labels:
   - Design
 ---
 <div class="text-center p-2">
-  <img width="300px" src="../img/EsLint.jpg" >
+  <img width="300px" src="../img/UIPIC.JPEG" >
 </div>
 
 ## Bootstrap 5: A Deeper Dive into UI Frameworks
