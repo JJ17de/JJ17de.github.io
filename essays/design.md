@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center p-2">
-  <img width="300px" src="../img/design.jpeg" >
+  <img width="300px" src="../img/designpic.jpeg" >
 </div>
 
   Writing code in software development is a lot like solving a hard puzzle. As a system grows, changes, and is strong, all of its code must work perfectly with each other. In the same way that ancient craftsmen kept trade secrets secret, software writers use "design patterns." 
