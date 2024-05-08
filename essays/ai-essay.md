@@ -32,7 +32,7 @@ AI has helped me a lot throughout my short 3-year undergraduate career #GPTAlumn
 
 
 <div class="text-center p-2">
-  <img width="300px" src="../img/AI$.jpeg" >
+  <img width="300px" src="../img/AI4.jpeg" >
 </div>
 ## Challenges 
 I've found that ChatGPT often either overcomplicates the code you ask it to write or writes very general code. There's usually no in between. Also, it's not the greatest at handling code that has numerous files. Many a time, it's just patience if you are trying to get a fully AI-generated running code right.
