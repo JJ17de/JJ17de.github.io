@@ -39,7 +39,7 @@ AI has helped me a lot throughout my short 3-year undergraduate career #GPTAlumn
 I've found that ChatGPT often either overcomplicates the code you ask it to write or writes very general code. There's usually no in between. Also, it's not the greatest at handling code that has numerous files. Many a time, it's just patience if you are trying to get a fully AI-generated running code right.
 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
+<img width="200px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
 
 ## Comparative Analysis
 
