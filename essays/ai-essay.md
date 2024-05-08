@@ -25,21 +25,21 @@ AI is an imperative tool... there are many pros, there are many cons. The pros a
 Throughout my time as a student in UH Manoa's Software Engineering course (ICS 314), I utilized AI frequently throughout the semester—from in-class WODs to essays, and even the final project. "Was I being Abusive or Loving? I'd like to say I'm more of a Lover rather than a Fighter." I have used AI in this class solely to assist me with debugging code I had already written. Often, I found that AI could overly complicate the code it was asked to write, but it excelled at debugging, identifying errors, explaining what certain blocks of code do, and detailing questions extensively. During the in-class WODs, I was often pressed for time and would overlook simple syntax errors that escaped my notice, but ChatGPT was there to spot these errors in seconds. For the final project, I leveraged AI for some styling elements that were beyond my coding capabilities at the time. However, with the help of ChatGPT, I didn't just copy and paste the code—experience has taught me that this approach often fails. Instead, I reviewed the explanations provided and made sure that the correct variable names and other elements were used for a smooth implementation. As for the essays, well, I'll let you figure that one out; maybe you can spot the hint!
 
 
-<img width="400px" class="rounded float-start pe-4" src="../AI3.jpeg" >
+<img width="400px" class="rounded float-start pe-4" src="../img/AI3.jpeg" >
 
 ## My Academic Development and Understanding
 
 AI has helped me a lot throughout my short 3-year undergraduate career #GPTAlumni. Primarily, it has been invaluable in helping me break down questions and problems. Often, the assignments presented to me posed quite ambiguous questions, and I'm not really the type to email professors or TAs for clarification. I find satisfaction and the most growth in finding solutions through my own struggles and journey. Many times, this journey has involved using ChatGPT to reword or simplify questions, allowing me to get a stronger grasp of what's being asked of me. Thus, in my academic development, AI has enhanced my understanding of a wide array of concepts, from discrete math and algorithms to software engineering.
 
 
-<img width="400px" class="rounded float-start pe-4" src="../AI4.jpeg" >
+<img width="400px" class="rounded float-start pe-4" src="../img/AI4.jpeg" >
 
 ## Challenges 
 
 I've found that ChatGPT often either overcomplicates the code you ask it to write or writes very general code. There's usually no in between. Also, it's not the greatest at handling code that has numerous files. Many a time, it's just patience if you are trying to get a fully AI-generated running code right.
 
 
-<img width="400px" class="rounded float-start pe-4" src="../AI5.jpeg" >
+<img width="400px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
 
 ## Comparative Analysis
 AI to me is what Google and the Internet was oh so many years ago when it came out in the late 1900's, I believe. It's really just a tool to grab information really fast. Since the 1900s, information was read through books, articles, thesauruses, and others. But when the internet came out, information read remained the same; only this time, it's just a quicker look-up for the information. Instead of having to scroll through 10 pages on Google, by the time you ask ChatGPT, it would have gone through the whole internet for you and gotten an answer in seconds. Its just a natural evolution of gathering information.
