@@ -39,7 +39,7 @@ AI has helped me a lot throughout my short 3-year undergraduate career #GPTAlumn
 I've found that ChatGPT often either overcomplicates the code you ask it to write or writes very general code. There's usually no in between. Also, it's not the greatest at handling code that has numerous files. Many a time, it's just patience if you are trying to get a fully AI-generated running code right.
 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
+<img width="1500px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
 
 ## Comparative Analysis
 AI to me is what Google and the Internet was oh so many years ago when it came out in the late 1900's, I believe. It's really just a tool to grab information really fast. Since the 1900s, information was read through books, articles, thesauruses, and others. But when the internet came out, information read remained the same; only this time, it's just a quicker look-up for the information. Instead of having to scroll through 10 pages on Google, by the time you ask ChatGPT, it would have gone through the whole internet for you and gotten an answer in seconds. Its just a natural evolution of gathering information.
