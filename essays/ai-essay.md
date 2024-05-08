@@ -47,7 +47,7 @@ AI to me is what Google and the Internet was oh so many years ago when it came o
 
 
 
-<img width="250px" class="rounded float-start pe-4" src="../img/AI6.jpeg" >
+<img width="200px" class="rounded float-start pe-4" src="../img/AI6.jpeg" >
   
 ## Future Considerations
 
