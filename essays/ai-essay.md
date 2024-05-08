@@ -39,9 +39,10 @@ AI has helped me a lot throughout my short 3-year undergraduate career #GPTAlumn
 I've found that ChatGPT often either overcomplicates the code you ask it to write or writes very general code. There's usually no in between. Also, it's not the greatest at handling code that has numerous files. Many a time, it's just patience if you are trying to get a fully AI-generated running code right.
 
 
-<img width="150px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
+<img width="200px" class="rounded float-start pe-4" src="../img/AI5.jpeg" >
 
 ## Comparative Analysis
+
 AI to me is what Google and the Internet was oh so many years ago when it came out in the late 1900's, I believe. It's really just a tool to grab information really fast. Since the 1900s, information was read through books, articles, thesauruses, and others. But when the internet came out, information read remained the same; only this time, it's just a quicker look-up for the information. Instead of having to scroll through 10 pages on Google, by the time you ask ChatGPT, it would have gone through the whole internet for you and gotten an answer in seconds. Its just a natural evolution of gathering information.
 
 
@@ -49,6 +50,7 @@ AI to me is what Google and the Internet was oh so many years ago when it came o
 <img width="200px" class="rounded float-start pe-4" src="../img/AI6.jpeg" >
   
 ## Future Considerations
+
 The future ties into the concept of "Abusing or Loving" AI. Artificial Intelligence should be taught as a tool in your arsenal, one that is complementary to your education and knowledge, augmenting rather than replacing the hard-earned insights you've gathered through traditional learning. It's essential to perceive AI not just as a shortcut to immediate results but as an enabler that enhances your abilities and deepens your understanding in a myriad of fields. By integrating AI effectively into our learning processes, we can utilize it to expand our horizons, tackle complex problems with greater efficiency, and foster an environment where innovation thrives. This balanced approach can prevent the potential misuse of AI and encourage a healthy, productive relationship with technology.
 
 
@@ -56,6 +58,7 @@ The future ties into the concept of "Abusing or Loving" AI. Artificial Intellige
 <img width="200px" class="rounded float-start pe-4" src="../img/AI7.jpeg" >
   
 ## The Finish Line
+
 It's beyond obvious: AI will further weave itself into society's fabric, and as its presence grows, so too must our readiness to adapt alongside it. There's often a fear that tags along with AI, a nervous anticipation of its capabilities and uses—an understandable, trendy fear, as AI is still pretty fresh on the scene. But then, I guess I should note that AI will only be as intelligent as the computer scientist who programs it. It isn't an all-knowing entity; it's more like a collective of human intelligence that's continually built upon—endlessly, endlessly. It seems to me that as long as we view it simply as a tool, AI holds the potential to usher in a new era of even smarter computer scientists.By allowing the use and transparency of AI for a variety of assignments, this class has helped me navigate my own use of AI, and it's enhanced my software development skills. This class stands out as a prime example of how to blend traditional learning with AI-enhanced approaches. In fact, if you were to ask me, I'd say students are likely to leave this class as more proficient computer scientists.
 
 
