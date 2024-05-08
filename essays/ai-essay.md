@@ -56,3 +56,7 @@ The future ties into the concept of "Abusing or Loving" AI. Artificial Intellige
 </div>
 ## The Finish Line
 It's beyond obvious: AI will further weave itself into society's fabric, and as its presence grows, so too must our readiness to adapt alongside it. There's often a fear that tags along with AI, a nervous anticipation of its capabilities and uses—an understandable, trendy fear, as AI is still pretty fresh on the scene. But then, I guess I should note that AI will only be as intelligent as the computer scientist who programs it. It isn't an all-knowing entity; it's more like a collective of human intelligence that's continually built upon—endlessly, endlessly. It seems to me that as long as we view it simply as a tool, AI holds the potential to usher in a new era of even smarter computer scientists.By allowing the use and transparency of AI for a variety of assignments, this class has helped me navigate my own use of AI, and it's enhanced my software development skills. This class stands out as a prime example of how to blend traditional learning with AI-enhanced approaches. In fact, if you were to ask me, I'd say students are likely to leave this class as more proficient computer scientists.
+
+
+
+ChatGPT was used in the making of this essay to enhance the professionalism.
