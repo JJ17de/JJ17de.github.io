@@ -11,7 +11,7 @@ labels:
 ---
 
 
-<img width="400px" class="rounded float-start pe-4" src="../img/img/AI1.jpeg" > 
+<img width="400px" class="rounded float-start pe-4" src="../img/AI1.jpeg" > 
 
 ## Abuse or Love?
 
