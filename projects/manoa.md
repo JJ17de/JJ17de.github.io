@@ -32,4 +32,4 @@ summary: "A responsive web application that shows every food joint on campus."
 
 
 
-<script src="https://gist.github.com/JJ17de/d3d8e927fa35508367986d7396a8eb0e.js"></script>
+{% gist d3d8e927fa35508367986d7396a8eb0e %}
