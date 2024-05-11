@@ -21,3 +21,6 @@ The use of Bootstrap and other UI frameworks not only facilitated the practical 
 Additionally, the exploration of other key areas such as Open Source Software Development opened my eyes to the collaborative nature of the software engineering field. Engaging with open-source projects showed me the value of community contributions to software innovation and improvement. Similarly, studying Configuration Management and Development Environments equipped me with the skills necessary to maintain the integrity and manageability of software projects, especially as they scale. Ethics in Software Engineering was another critical area, prompting me to consider the broader impacts of technology on society and the moral responsibilities of engineers.
 
 In essence, ICS 314 has been a transformative journey that has not only enriched my technical skills but also broadened my perspective on the multifaceted nature of software engineering. It has prepared me to tackle complex problems with a balanced approach that considers both technical and ethical dimensions. This course has undoubtedly been a cornerstone of my educational development, laying a strong foundation for my future career in technology.
+
+
+ChatGPT was used in the making of this essay to enhance the professionalism.
