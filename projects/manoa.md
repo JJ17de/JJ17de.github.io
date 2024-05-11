@@ -16,4 +16,4 @@ labels:
 summary: "A responsive web application that shows every food joint on campus."
 --- 
 
-<img class="img-fluid" src="../img/whatshot.jpeg">
+<img class="img-fluid" src="../img/toppick.jpeg">
