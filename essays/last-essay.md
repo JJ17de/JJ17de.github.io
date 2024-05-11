@@ -1,3 +1,17 @@
+---
+layout: essay
+type: essay
+title: "GPT University"
+# All dates must be YYYY-MM-DD format!
+date: 2024-05-07
+published: true
+labels:
+  - Software Engineering
+  - AI
+---
+
+
+<img width="800px" class="rounded float-start pe-4" src="../img/last.jpeg" > 
 
 
 
