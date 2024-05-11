@@ -33,7 +33,8 @@ I would like extend gratitude to my team members for their dedicated contributio
 - Ezekiel Ira Nunez
 - Dan Vu
 
-Check out the FoodieFinders here: https://foodiefinders.lol
+Check out the FoodieFinders here: <a href="https://foodiefinders.lol">https://foodiefinders.lol</a>
+
 
 Here is some example code to illustrate Simple Schema use:
 <script src="https://gist.github.com/JJ17de/d3d8e927fa35508367986d7396a8eb0e.js"></script>
