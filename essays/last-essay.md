@@ -12,7 +12,7 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/last.jpeg" > 
 
-## Unforgetable
+## Unforgettable
 
 As a student at the University of Hawaii at Manoa taking ICS 314, Software Engineering, I have gained a deep appreciation and solid understanding of software engineering. This course has allowed me to explore various important aspects that go beyond basic coding assignments. Looking back at the curriculum of ICS 314, it's clear that the course explored a wide range of topics that went beyond the basics of software engineering. We covered including Agile Project Management, User Interface Frameworks, Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards, Design Patterns, and Ethics in Software Engineering. Out of all the concepts we went over, User Interface Frameworks (UI Frameworks) really caught my interest. UI Frameworks offer a systematic method for designing user interfaces, integrating components that improve the overall layout and user experience. During the course, we used Bootstrap, a tool that makes UI creation easier by providing pre-made HTML, CSS, and JavaScript components. They make it easier to create user interfaces that are consistent and easy to use, saving time and effort in the design and implementation process.
 
